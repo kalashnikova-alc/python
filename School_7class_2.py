@@ -6,12 +6,6 @@ x4 = float(input("Уведіть значення змінної x4: "))
 max = x1
 
 if max < x2:
-    max = x2
-
-if max < x3:
-    max = x3
-
-if max < x4:
     max = x4
 
 print("Найбільше число:", max)
